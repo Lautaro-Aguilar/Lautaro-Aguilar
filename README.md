@@ -1,6 +1,8 @@
 <h1 align="center">⛈️🌧️ Lautaro Aguilar</h1>
 <h3 align="center">Web Developer (Design/Developer)</h3>
 
+<p>My name is Lautaro Aguilar, and I'm a 19-year-old software developer currently working for a company where I utilize React, JavaScript, and TypeScript to build web applications. Along with my work, I am also pursuing a degree in Systems Analysis and Software Development at a tertiary institution. I have a passion for coding and enjoy working on projects that challenge me to learn and grow as a developer. In my free time, I enjoy reading tech articles, practicing coding challenges, and playing video games.</p
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lautaro-aguilar" alt="lautaro-aguilar" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lautaro-aguilar&label=Profile%20views&color=0000ff&style=flat-square" alt="lautaro-aguilar" /> </p>
 
